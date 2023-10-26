@@ -1,3 +1,3 @@
-function sorted(){
+function sortedSquares(){
     
 }
